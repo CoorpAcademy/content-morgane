@@ -1,0 +1,40 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-05-09T17:39:38.780Z",
+            "updatedAt": "2019-05-09T17:39:38.780Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "taggedNewUntil": "2019-07-09T17:39:29.360Z",
+            "keywords": [],
+            "modules": [
+                "mod_NyZJB8aiL"
+            ],
+            "modifiedBy": "Morganeplx",
+            "createdBy": "Morganeplx"
+        },
+        "ref": "cha_VyGeHUTo8",
+        "universalRef": "cha_VyGeHUTo8",
+        "name": "name",
+        "skills": [],
+        "position": 0,
+        "stars": 20,
+        "time": null,
+        "isConditional": false,
+        "freeRun": true,
+        "thematiques": [],
+        "partners": [],
+        "poster": null,
+        "states": {
+            "fr": {
+                "edition": "draft"
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "name": "Chapitre 1"
+        }
+    }
+}

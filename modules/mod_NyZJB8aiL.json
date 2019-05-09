@@ -1,0 +1,37 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-05-09T17:39:38.779Z",
+            "updatedAt": "2019-05-09T17:39:38.779Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2019-07-09T17:39:12.249Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_NyOhN86o8"
+            ],
+            "modifiedBy": "Morganeplx",
+            "createdBy": "Morganeplx"
+        },
+        "ref": "mod_NyZJB8aiL",
+        "universalRef": "mod_NyZJB8aiL",
+        "level": 1,
+        "position": 0,
+        "timeAlloted": 20,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [],
+        "ineligibleBattle": false,
+        "states": {
+            "fr": {
+                "edition": "draft"
+            }
+        },
+        "version": "2"
+    },
+    "locales": {
+        "fr": {}
+    }
+}
