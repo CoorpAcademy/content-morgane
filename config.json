@@ -1,8 +1,0 @@
-{
-    "name": "EVG - Amélie",
-    "locales": [
-        "fr"
-    ],
-    "s3Bucket": "static.coorpacademy.com/content/evg-amelie",
-    "videoProvider": "jwplayer"
-}
