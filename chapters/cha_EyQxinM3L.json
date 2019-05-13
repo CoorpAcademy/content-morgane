@@ -2,11 +2,11 @@
     "structure": {
         "meta": {
             "isoCore": null,
-            "createdAt": "2019-05-09T17:39:38.780Z",
-            "updatedAt": "2019-05-13T19:57:09.766Z",
+            "createdAt": "2019-05-13T19:57:09.767Z",
+            "updatedAt": "2019-05-13T19:57:09.767Z",
             "publishedAt": null,
             "contentExpiresAt": null,
-            "taggedNewUntil": "2019-07-09T17:39:29.360Z",
+            "taggedNewUntil": "2019-07-13T19:56:02.232Z",
             "keywords": [],
             "modules": [
                 "mod_NyZJB8aiL"
@@ -14,12 +14,10 @@
             "modifiedBy": "Morganeplx",
             "createdBy": "Morganeplx"
         },
-        "ref": "cha_VyGeHUTo8",
-        "universalRef": "cha_VyGeHUTo8",
+        "ref": "cha_EyQxinM3L",
+        "universalRef": "cha_EyQxinM3L",
         "name": "name",
-        "skills": [
-            "skill_Ekp8mtR3H"
-        ],
+        "skills": [],
         "position": 0,
         "stars": 20,
         "time": null,
@@ -36,7 +34,7 @@
     },
     "locales": {
         "fr": {
-            "name": "Réaliser un état des lieux objectif"
+            "name": "Organiser et hiérarchiser ses forces"
         }
     }
 }
