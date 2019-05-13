@@ -1,0 +1,24 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-05-13T19:52:54.114Z",
+            "updatedAt": "2019-05-13T19:52:54.114Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "modifiedBy": "Morganeplx",
+            "createdBy": "Morganeplx"
+        },
+        "ref": "ALL",
+        "type": "theme",
+        "name": "name",
+        "description": "description"
+    },
+    "locales": {
+        "fr": {
+            "name": "All",
+            "description": ""
+        }
+    }
+}

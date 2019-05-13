@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-05-09T17:39:38.780Z",
-            "updatedAt": "2019-05-09T17:39:38.780Z",
+            "updatedAt": "2019-05-13T19:52:54.113Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "taggedNewUntil": "2019-07-09T17:39:29.360Z",
@@ -17,7 +17,9 @@
         "ref": "cha_VyGeHUTo8",
         "universalRef": "cha_VyGeHUTo8",
         "name": "name",
-        "skills": [],
+        "skills": [
+            "skill_Ekp8mtR3H"
+        ],
         "position": 0,
         "stars": 20,
         "time": null,
