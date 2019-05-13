@@ -1,0 +1,75 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-05-13T20:06:31.618Z",
+            "updatedAt": "2019-05-13T20:06:31.618Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyQxinM3L"
+            ],
+            "modifiedBy": "Morganeplx",
+            "createdBy": "Morganeplx"
+        },
+        "ref": "sli_VJoV33z2L",
+        "universalRef": "sli_VJoV33z2L",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VJoV33z2L.choice_Vkqo2hf3L.id",
+                        "label": "choice_Vkqo2hf3L",
+                        "value": "choice_Vkqo2hf3L"
+                    },
+                    {
+                        "id": "sli_VJoV33z2L.choice_EJ~h23GhL.id",
+                        "label": "choice_EJ~h23GhL",
+                        "value": "choice_EJ~h23GhL"
+                    },
+                    {
+                        "id": "sli_VJoV33z2L.choice_VyMa22GnU.id",
+                        "label": "choice_VyMa22GnU",
+                        "value": "choice_VyMa22GnU"
+                    },
+                    {
+                        "id": "sli_VJoV33z2L.choice_VJ-V63f28.id",
+                        "label": "choice_VJ-V63f28",
+                        "value": "choice_VJ-V63f28"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJ-V63f28"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Vous vous attendez à la question suivante : \"Qu'avez-vous appris sur vous cette année ?\" Quel type de réponse est attendu par votre manager ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": ".",
+            "tips": ".",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkqo2hf3L": "Ma capacité à déléguer",
+            "choice_EJ~h23GhL": "Les bénéfices d'une prise de position tranchée",
+            "choice_VyMa22GnU": "Savoir équilibrer vies professionnelle et personnelle",
+            "choice_VJ-V63f28": "Mon amour de l'engagement"
+        }
+    }
+}
