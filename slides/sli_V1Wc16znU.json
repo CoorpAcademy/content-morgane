@@ -1,0 +1,142 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-05-13T20:21:49.613Z",
+            "updatedAt": "2019-05-13T20:21:49.613Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyQxinM3L"
+            ],
+            "modifiedBy": "Morganeplx",
+            "createdBy": "Morganeplx"
+        },
+        "ref": "sli_V1Wc16znU",
+        "universalRef": "sli_V1Wc16znU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel75299",
+                        "items": [
+                            {
+                                "text": "choice_4JlU1eaM2I",
+                                "value": "choice_4JlU1eaM2I"
+                            },
+                            {
+                                "text": "choice_4kZU1lTM2I",
+                                "value": "choice_4kZU1lTM2I"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel23569",
+                        "items": [
+                            {
+                                "text": "choice_EJekjepM3U",
+                                "value": "choice_EJekjepM3U"
+                            },
+                            {
+                                "text": "choice_Nk~1ixaz3U",
+                                "value": "choice_Nk~1ixaz3U"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel52546",
+                        "items": [
+                            {
+                                "text": "choice_41lb6gpM3U",
+                                "value": "choice_41lb6gpM3U"
+                            },
+                            {
+                                "text": "choice_N1bbalpG2U",
+                                "value": "choice_N1bbalpG2U"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel67624",
+                        "items": [
+                            {
+                                "text": "choice_E1xSk~TM2I",
+                                "value": "choice_E1xSk~TM2I"
+                            },
+                            {
+                                "text": "choice_N1WSJZaGn8",
+                                "value": "choice_N1WSJZaGn8"
+                            },
+                            {
+                                "text": "choice_V1ex~azhL",
+                                "value": "choice_V1ex~azhL"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel75299",
+                        "answers": [
+                            "choice_4kZU1lTM2I"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel23569",
+                        "answers": [
+                            "choice_EJekjepM3U"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel52546",
+                        "answers": [
+                            "choice_N1bbalpG2U"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel67624",
+                        "answers": [
+                            "choice_V1ex~azhL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Savoir se projeter est important : \"Quels sont vos objectifs d’ici 5 ans ? \"",
+            "explanation": "Saisissez votre réponse ou sélectionnez la bonne réponse dans le(s) menu(s) déroulant(s).",
+            "klf": "Regarde la vidéo si ce n'est pas déjà fait !",
+            "tips": "Regarde la vidéo si ce n'est pas déjà fait !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Dans 5 ans, je me vois {{sel75299}}. Nous habiterons {{sel23569}} et je {{sel52546}}. Mais surtout j'aimerais par dessus tout, {{sel67624}}",
+            "choice_4JlU1eaM2I": "avec 8 enfants",
+            "choice_4kZU1lTM2I": "avec un chat",
+            "choice_EJekjepM3U": "à Madrid",
+            "choice_Nk~1ixaz3U": "à Saint-Cloud RPZ",
+            "choice_41lb6gpM3U": "dirigerai Coorpacademy",
+            "choice_N1bbalpG2U": "dirigerai une académie de Fit Ballet",
+            "choice_E1xSk~TM2I": "avoir une date pour mon EVJF",
+            "choice_N1WSJZaGn8": "avoir UNE DATE pour mon EVJF",
+            "choice_V1ex~azhL": "AVOIR UNE DATE POUR MON EVJF"
+        }
+    }
+}
