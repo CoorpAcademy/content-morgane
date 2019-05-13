@@ -1,0 +1,73 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-05-13T20:15:23.648Z",
+            "updatedAt": "2019-05-13T20:15:23.648Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyQxinM3L"
+            ],
+            "modifiedBy": "Morganeplx",
+            "createdBy": "Morganeplx"
+        },
+        "ref": "sli_V1yd02G3I",
+        "universalRef": "sli_V1yd02G3I",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1yd02G3I.choice_EyxLoC2M2U.id",
+                        "label": "choice_EyxLoC2M2U",
+                        "value": "choice_EyxLoC2M2U",
+                        "media": "med_EkLiRnM38"
+                    },
+                    {
+                        "id": "sli_V1yd02G3I.choice_NklmZkaf28.id",
+                        "label": "choice_NklmZkaf28",
+                        "value": "choice_NklmZkaf28",
+                        "media": "med_V1XZ1aM3U"
+                    },
+                    {
+                        "id": "sli_V1yd02G3I.choice_Nyl18Jpf3L.id",
+                        "label": "choice_Nyl18Jpf3L",
+                        "value": "choice_Nyl18Jpf3L",
+                        "media": "med_N1kUJ6fh8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nyl18Jpf3L",
+                        "choice_NklmZkaf28",
+                        "choice_EyxLoC2M2U"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Préparez toujours la question suivante : \"Quelle est votre plus grande fierté de cette année ?\"",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Héhé ;)",
+            "tips": ".",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyxLoC2M2U": "Votre promotion",
+            "choice_NklmZkaf28": "Votre mariage",
+            "choice_Nyl18Jpf3L": "Votre déménagement"
+        }
+    }
+}

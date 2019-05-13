@@ -1,0 +1,30 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-05-13T20:15:23.650Z",
+            "updatedAt": "2019-05-13T20:15:23.650Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "modifiedBy": "Morganeplx",
+            "createdBy": "Morganeplx"
+        },
+        "ref": "med_N1kUJ6fh8",
+        "type": "img",
+        "src": [
+            {
+                "filename": "filename_EkxW-yaM3U",
+                "mimeType": "image/jpeg",
+                "mediaUrl": "mediaUrl_4y~O1pMnU",
+                "tmp": {}
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "filename_EkxW-yaM3U": "Guide_pratique_du_déménagement_économique_Comment_déménager_pas_cher.jpg",
+            "mediaUrl_4y~O1pMnU": "//static.coorpacademy.com/content/CoorpAcademy/content-morgane/cockpit-evg-amelie/default/guide_pratique_du_demenagement_economique_comment_demenager_pas_cher-1557778511626.jpg"
+        }
+    }
+}

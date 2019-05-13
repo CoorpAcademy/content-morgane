@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-05-13T19:57:09.767Z",
-            "updatedAt": "2019-05-13T20:10:20.876Z",
+            "updatedAt": "2019-05-13T20:15:23.649Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "taggedNewUntil": "2019-07-13T19:56:02.232Z",
@@ -31,7 +31,7 @@
                 "edition": "draft"
             }
         },
-        "version": "3"
+        "version": "4"
     },
     "locales": {
         "fr": {
