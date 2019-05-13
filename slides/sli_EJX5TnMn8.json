@@ -1,0 +1,84 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-05-13T20:10:20.874Z",
+            "updatedAt": "2019-05-13T20:10:20.874Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyQxinM3L"
+            ],
+            "modifiedBy": "Morganeplx",
+            "createdBy": "Morganeplx"
+        },
+        "ref": "sli_EJX5TnMn8",
+        "universalRef": "sli_EJX5TnMn8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJX5TnMn8.choice_EJ9mAhGnL.id",
+                        "label": "choice_EJ9mAhGnL",
+                        "value": "choice_EJ9mAhGnL"
+                    },
+                    {
+                        "id": "sli_EJX5TnMn8.choice_Vy3X0hG2L.id",
+                        "label": "choice_Vy3X0hG2L",
+                        "value": "choice_Vy3X0hG2L"
+                    },
+                    {
+                        "id": "sli_EJX5TnMn8.choice_EkNN03M38.id",
+                        "label": "choice_EkNN03M38",
+                        "value": "choice_EkNN03M38"
+                    },
+                    {
+                        "id": "sli_EJX5TnMn8.choice_Nk5EC3fh8.id",
+                        "label": "choice_Nk5EC3fh8",
+                        "value": "choice_Nk5EC3fh8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nk5EC3fh8",
+                        "choice_EJ9mAhGnL",
+                        "choice_Vy3X0hG2L",
+                        "choice_EkNN03M38"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": null,
+            "poster": null
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Pour évaluer l'impact des retombées de vos engagements, répondez à cette question : \"Qu’est-ce que vous retenez des associations bénévoles dans lesquelles vous êtes impliquée?\"",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": ".",
+            "tips": ".",
+            "clue": "",
+            "context_title": "Que ce soit dans un conseil d’administration, un projet ou dans une autre activité bénévole, vous devez être en mesure de connaître ce que chaque implication vous apporte sur le plan personnel, professionnel et de déterminer si cette implication a des retombées positives sur votre entreprise.",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJ9mAhGnL": "Que le compromis est le meilleur allié du couple",
+            "choice_Vy3X0hG2L": "Que le partage est source d’une satisfaction décuplée",
+            "choice_EkNN03M38": "Que l’esprit collaboratif nourrit les synergies",
+            "choice_Nk5EC3fh8": "Qu’il suffit d’une bonne soupe pour régaler les convives"
+        }
+    }
+}
