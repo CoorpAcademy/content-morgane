@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-05-13T19:57:09.767Z",
-            "updatedAt": "2019-05-13T20:21:49.614Z",
+            "updatedAt": "2019-05-15T20:52:36.457Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "taggedNewUntil": "2019-07-13T19:56:02.232Z",
@@ -35,7 +35,7 @@
     },
     "locales": {
         "fr": {
-            "name": "Organiser et hiérarchiser ses forces"
+            "name": "Identifier et hiérarchiser ses forces"
         }
     }
 }
