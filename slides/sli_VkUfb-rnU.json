@@ -1,0 +1,69 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-05-15T21:23:23.096Z",
+            "updatedAt": "2019-05-15T21:23:23.096Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyGeHUTo8"
+            ],
+            "modifiedBy": "Morganeplx",
+            "createdBy": "Morganeplx"
+        },
+        "ref": "sli_VkUfb-rnU",
+        "universalRef": "sli_VkUfb-rnU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VkUfb-rnU.choice_VkBVfOrnU.id",
+                        "label": "choice_VkBVfOrnU",
+                        "value": "choice_VkBVfOrnU"
+                    },
+                    {
+                        "id": "sli_VkUfb-rnU.choice_VkR4MOS2I.id",
+                        "label": "choice_VkR4MOS2I",
+                        "value": "choice_VkR4MOS2I"
+                    },
+                    {
+                        "id": "sli_VkUfb-rnU.choice_4yFBzOr3U.id",
+                        "label": "choice_4yFBzOr3U",
+                        "value": "choice_4yFBzOr3U"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yFBzOr3U"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "L'entretien annuel n'est pas un point hebdomadaire. Ses fonctions doivent être clairement identifées. Quelles sont-elles ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "L'entretien annuel est conçu pour prendre de la hauteur des missions quotidiennes et se projeter sur une plus longue durée dans son évolution professionnelle.",
+            "tips": "De plus en plus d'entreprises organisent des entretiens annuels inversés où le manager doit communiquer ses attentes envers ses managés. Le but ? Aplanir les rapports hiérarchiques et rendre les collaborateurs plus acteurs de leurs objectifs et des moyens déployés.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkBVfOrnU": "Recadrage - notation - bilan",
+            "choice_VkR4MOS2I": "Motivation - évolution - sanction",
+            "choice_4yFBzOr3U": "Appréciation - communication - orientation"
+        }
+    }
+}
