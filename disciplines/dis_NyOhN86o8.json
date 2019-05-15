@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-05-09T17:39:38.804Z",
-            "updatedAt": "2019-05-13T19:57:09.807Z",
+            "updatedAt": "2019-05-15T20:51:20.648Z",
             "publishedAt": null,
             "taggedNewUntil": "2019-07-09T17:38:32.122Z",
             "contentExpiresAt": null,
@@ -38,8 +38,8 @@
     },
     "locales": {
         "fr": {
-            "name": "Préparer son bilan de compétences",
-            "coverDescription": "Le bilan de compétence est un outil de connaissance de soi en situation de management. Il vous permet de découvrir les caractéristiques de votre personnalité, d’identifier ce qu’ont été jusqu’ici vos limites, pour pouvoir les dépasser. Il aide à identifier quelles sont les forces sur lesquelles vous pouvez chercher appui pour optimiser vos performances de manager. Le bilan de compétence ne se contente pas seulement de décrire vos traits de personnalité, il vous explique le pourquoi et le comment de chacune de vos tendances. Il décode vos fonctionnements internes, il montre ce qu'induit votre personnalité dans différentes situations de management. Il discerne également vos limites pour vous permettre de mieux les décrypter afin de pouvoir les dépasser, et détaille les atouts sur lesquels vous pouvez vous appuyer."
+            "name": "Préparer son entretien individuel annuel",
+            "coverDescription": "L’entretien annuel est un outil, qui, s’il est bien utilisé, doit permettre la progression simultanée des performances du salarié, du manager, et de l’entreprise. Ce rendez-vous professionnel a pour vocation principale d’évaluer les résultats du salarié. Il permet de faire un point sur son activité, en laissant de côté, l’espace d’une heure ou deux, les préoccupations du quotidien. Lors  de cet entretien, on aborde notamment les questions liées à l’atteinte des objectifs, les points forts du salarié et ses axes d’amélioration."
         }
     }
 }
