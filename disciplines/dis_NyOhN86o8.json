@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-05-09T17:39:38.804Z",
-            "updatedAt": "2019-05-15T20:51:20.648Z",
+            "updatedAt": "2019-05-15T20:52:07.080Z",
             "publishedAt": null,
             "taggedNewUntil": "2019-07-09T17:38:32.122Z",
             "contentExpiresAt": null,
@@ -39,7 +39,7 @@
     "locales": {
         "fr": {
             "name": "Préparer son entretien individuel annuel",
-            "coverDescription": "L’entretien annuel est un outil, qui, s’il est bien utilisé, doit permettre la progression simultanée des performances du salarié, du manager, et de l’entreprise. Ce rendez-vous professionnel a pour vocation principale d’évaluer les résultats du salarié. Il permet de faire un point sur son activité, en laissant de côté, l’espace d’une heure ou deux, les préoccupations du quotidien. Lors  de cet entretien, on aborde notamment les questions liées à l’atteinte des objectifs, les points forts du salarié et ses axes d’amélioration."
+            "coverDescription": "L’entretien annuel est un outil, qui, s’il est bien utilisé, doit permettre la progression simultanée des performances du salarié, du manager, et de l’entreprise. Ce rendez-vous professionnel a pour vocation principale d’évaluer les résultats du salarié. Il permet de faire un point sur son activité, en laissant de côté les préoccupations du quotidien. Lors  de cet entretien, on aborde notamment les questions liées à l’atteinte des objectifs, les points forts du salarié et ses axes d’amélioration. Comment bien s'y préparer ?"
         }
     }
 }
