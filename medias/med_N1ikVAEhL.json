@@ -1,0 +1,29 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-05-15T10:07:10.357Z",
+            "updatedAt": "2019-05-15T10:07:10.357Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "modifiedBy": "Morganeplx",
+            "createdBy": "Morganeplx"
+        },
+        "ref": "med_N1ikVAEhL",
+        "type": "img",
+        "src": [
+            {
+                "filename": "filename_41xpJ40438",
+                "mimeType": "",
+                "mediaUrl": "mediaUrl_NJaJERN2U"
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "mediaUrl_NJaJERN2U": "//static.coorpacademy.com/content/CoorpAcademy/content-morgane/cockpit-evg-amelie/default/shutterstock_700591432-1557776924083.jpg",
+            "filename_41xpJ40438": "shutterstock_700591432-1557776924083.jpg"
+        }
+    }
+}
