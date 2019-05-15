@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-05-15T21:52:19.648Z",
-            "updatedAt": "2019-05-15T21:53:48.916Z",
+            "updatedAt": "2019-05-15T21:54:16.745Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "keywords": [],
@@ -43,15 +43,15 @@
         "fr": {
             "header": "Préparer son entretien individuel est primordial pour votre évolution professionnelle. Quelle est la part de salariés admettant avoir oublier des éléments clefs en sortant de leur entretien ?",
             "explanation": "Déplacez le curseur.",
-            "klf": "Plus de 60% des salariés avouent ne pas avoir réussi à placer tous leurs sujets au cours de leurs entretiens.",
+            "klf": "Plus de 45% des salariés avouent ne pas avoir réussi à placer tous leurs sujets au cours de leurs entretiens.",
             "tips": "Afin de gagner en performance, Microsoft a mis en place des coachings trimestriel pour ses employés. Facultatif, ces points permettent aux employés d'apprendre à orienter leur évolution professionnelle et aborder les entretiens annuels plus sereinement en étant davantage force de proposition.",
             "clue": "",
             "context_title": "",
             "context_description": "",
             "context_media_description": "",
             "unitLabel": "%",
-            "description": "62",
-            "answerMin": 40,
+            "description": "45",
+            "answerMin": 30,
             "answerMax": 80
         }
     }
