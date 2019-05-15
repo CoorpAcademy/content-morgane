@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-05-09T17:39:38.779Z",
-            "updatedAt": "2019-05-13T19:57:09.765Z",
+            "updatedAt": "2019-05-15T20:54:12.676Z",
             "publishedAt": null,
             "taggedNewUntil": "2019-07-09T17:39:12.249Z",
             "contentExpiresAt": null,
@@ -37,7 +37,7 @@
     "locales": {
         "fr": {
             "skill_V1GS5hz3U": "Optimiser vos acquis et vos compétences par une analyse de la perception de soi",
-            "skill_4yeOq3Gn8": "Ajuster efficacement votre stratégie relationnelle pour favoriser l'adéquation entre votre style de leadership et les missions confiées"
+            "skill_4yeOq3Gn8": "Communiquer efficacement sur vos attentes afin d'ajuster les missions confiées"
         }
     }
 }
