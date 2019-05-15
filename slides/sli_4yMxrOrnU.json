@@ -1,0 +1,77 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-05-15T21:38:58.700Z",
+            "updatedAt": "2019-05-15T21:38:58.700Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyGeHUTo8"
+            ],
+            "modifiedBy": "Morganeplx",
+            "createdBy": "Morganeplx"
+        },
+        "ref": "sli_4yMxrOrnU",
+        "universalRef": "sli_4yMxrOrnU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4yMxrOrnU.choice_41rQrOB3L.id",
+                        "label": "choice_41rQrOB3L",
+                        "value": "choice_41rQrOB3L"
+                    },
+                    {
+                        "id": "sli_4yMxrOrnU.choice_V1wVH-BnI.id",
+                        "label": "choice_V1wVH-BnI",
+                        "value": "choice_V1wVH-BnI"
+                    },
+                    {
+                        "id": "sli_4yMxrOrnU.choice_E1WBSdS3I.id",
+                        "label": "choice_E1WBSdS3I",
+                        "value": "choice_E1WBSdS3I"
+                    },
+                    {
+                        "id": "sli_4yMxrOrnU.choice_EJ0HHdBhL.id",
+                        "label": "choice_EJ0HHdBhL",
+                        "value": "choice_EJ0HHdBhL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41rQrOB3L",
+                        "choice_V1wVH-BnI",
+                        "choice_E1WBSdS3I",
+                        "choice_EJ0HHdBhL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Avant de vous demander ce que vous souhaiteriez pour les mois à venir, commencez par faire un point sur votre situation actuelle. Quels sont les éléments à prendre en considération ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "La première étape consiste à faire un bilan de l'intégralité de votre situation actuelle, depuis les outils à disposition pour réaliser vos missions jusqu'à la pertinence même de ces dernières.",
+            "tips": "Parmi les collaborateurs qui font le choix de démissionner, 40% mettent en avant des soucis d'ambiance ou de matériels défaillants, avant la pertinence de la mission même.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41rQrOB3L": "L'intérêt de vos missions",
+            "choice_V1wVH-BnI": "La qualité du matériel informatique",
+            "choice_E1WBSdS3I": "L'ambiance au sein de votre équipe",
+            "choice_EJ0HHdBhL": "Votre équilibre vie professionnelle / vie personnelle"
+        }
+    }
+}
