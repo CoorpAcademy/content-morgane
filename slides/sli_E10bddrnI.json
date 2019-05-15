@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-05-15T21:52:19.648Z",
-            "updatedAt": "2019-05-15T21:52:19.648Z",
+            "updatedAt": "2019-05-15T21:53:48.916Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "keywords": [],
@@ -51,8 +51,8 @@
             "context_media_description": "",
             "unitLabel": "%",
             "description": "62",
-            "answerMin": 62,
-            "answerMax": 62
+            "answerMin": 40,
+            "answerMax": 80
         }
     }
 }
