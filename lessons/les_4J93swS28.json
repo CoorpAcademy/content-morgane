@@ -1,0 +1,28 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-05-15T21:00:15.714Z",
+            "updatedAt": "2019-05-15T21:00:15.714Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "slides": [],
+            "chapters": [
+                "cha_VyGeHUTo8"
+            ],
+            "modifiedBy": "Morganeplx",
+            "createdBy": "Morganeplx"
+        },
+        "ref": "les_4J93swS28",
+        "position": 0,
+        "poster": null,
+        "description": "description",
+        "resource": "med_N1KeaDB38"
+    },
+    "locales": {
+        "fr": {
+            "description": "Les incontournables de l'entretien annuel"
+        }
+    }
+}
