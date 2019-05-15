@@ -1,0 +1,58 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-05-15T21:52:19.648Z",
+            "updatedAt": "2019-05-15T21:52:19.648Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyGeHUTo8"
+            ],
+            "modifiedBy": "Morganeplx",
+            "createdBy": "Morganeplx"
+        },
+        "ref": "sli_E10bddrnI",
+        "universalRef": "sli_E10bddrnI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_E10bddrnI.id",
+                "min": 0,
+                "max": 100,
+                "step": 1,
+                "defaultValue": 20,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Préparer son entretien individuel est primordial pour votre évolution professionnelle. Quelle est la part de salariés admettant avoir oublier des éléments clefs en sortant de leur entretien ?",
+            "explanation": "Déplacez le curseur.",
+            "klf": "Plus de 60% des salariés avouent ne pas avoir réussi à placer tous leurs sujets au cours de leurs entretiens.",
+            "tips": "Afin de gagner en performance, Microsoft a mis en place des coachings trimestriel pour ses employés. Facultatif, ces points permettent aux employés d'apprendre à orienter leur évolution professionnelle et aborder les entretiens annuels plus sereinement en étant davantage force de proposition.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": "%",
+            "description": "62",
+            "answerMin": 62,
+            "answerMax": 62
+        }
+    }
+}
