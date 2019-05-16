@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-05-09T17:39:38.780Z",
-            "updatedAt": "2019-05-15T21:52:19.648Z",
+            "updatedAt": "2019-05-16T15:15:41.623Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "taggedNewUntil": "2019-07-09T17:39:29.360Z",
@@ -37,7 +37,7 @@
     },
     "locales": {
         "fr": {
-            "name": "Les incontournables de l'entretien annuel"
+            "name": "Les incontournables de l'entretien trimestriel"
         }
     }
 }
