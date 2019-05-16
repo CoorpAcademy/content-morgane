@@ -3,14 +3,14 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-05-15T21:23:23.096Z",
-            "updatedAt": "2019-05-15T21:23:23.096Z",
+            "updatedAt": "2019-05-16T16:03:15.750Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "keywords": [],
             "chapters": [
                 "cha_VyGeHUTo8"
             ],
-            "modifiedBy": "Morganeplx",
+            "modifiedBy": "auroreperrin",
             "createdBy": "Morganeplx"
         },
         "ref": "sli_VkUfb-rnU",
@@ -53,9 +53,9 @@
     },
     "locales": {
         "fr": {
-            "header": "L'entretien annuel n'est pas un point hebdomadaire. Ses fonctions doivent être clairement identifées. Quelles sont-elles ?",
+            "header": "L'entretien trimestriel n'est pas un point hebdomadaire. Ses fonctions doivent être clairement identifées en amont entre le manager et le collaborateur. Quelles sont-elles ?",
             "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
-            "klf": "L'entretien annuel est conçu pour prendre de la hauteur des missions quotidiennes et se projeter sur une plus longue durée dans son évolution professionnelle.",
+            "klf": "L'entretien trimestriel est conçu pour prendre de la hauteur des missions quotidiennes et se projeter sur une plus longue durée dans son évolution professionnelle.",
             "tips": "De plus en plus d'entreprises organisent des entretiens annuels inversés où le manager doit communiquer ses attentes envers ses managés. Le but ? Aplanir les rapports hiérarchiques et rendre les collaborateurs plus acteurs de leurs objectifs et des moyens déployés.",
             "clue": "",
             "context_title": "",
