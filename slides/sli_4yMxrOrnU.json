@@ -3,14 +3,14 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-05-15T21:38:58.700Z",
-            "updatedAt": "2019-05-15T21:38:58.700Z",
+            "updatedAt": "2019-05-16T16:04:37.554Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "keywords": [],
             "chapters": [
                 "cha_VyGeHUTo8"
             ],
-            "modifiedBy": "Morganeplx",
+            "modifiedBy": "auroreperrin",
             "createdBy": "Morganeplx"
         },
         "ref": "sli_4yMxrOrnU",
@@ -60,7 +60,7 @@
     },
     "locales": {
         "fr": {
-            "header": "Avant de vous demander ce que vous souhaiteriez pour les mois à venir, commencez par faire un point sur votre situation actuelle. Quels sont les éléments à prendre en considération ?",
+            "header": "L'entretien trimestriel, c'est déjà dresser le bilan de la situation actuelle. Quels sont les éléments à prendre en considération ?",
             "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
             "klf": "La première étape consiste à faire un bilan de l'intégralité de votre situation actuelle, depuis les outils à disposition pour réaliser vos missions jusqu'à la pertinence même de ces dernières.",
             "tips": "Parmi les collaborateurs qui font le choix de démissionner, 40% mettent en avant des soucis d'ambiance ou de matériels défaillants, avant la pertinence de la mission même.",
