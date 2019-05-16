@@ -3,14 +3,14 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-05-15T21:16:32.663Z",
-            "updatedAt": "2019-05-15T21:57:10.026Z",
+            "updatedAt": "2019-05-16T15:57:42.866Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "keywords": [],
             "chapters": [
                 "cha_VyGeHUTo8"
             ],
-            "modifiedBy": "Morganeplx",
+            "modifiedBy": "auroreperrin",
             "createdBy": "Morganeplx"
         },
         "ref": "sli_Nk4KavSnU",
@@ -62,17 +62,17 @@
     },
     "locales": {
         "fr": {
-            "header": "Savoir identifier ses compétences est primordial pour pouvoir progresser dans son parcours professionnel. Que devez-vous identifier quand nous parlons de \"compétences\" ?",
+            "header": "Savoir identifier ses compétences acquises et à developper est primordial pour pouvoir progresser dans son parcours. Que devez-vous identifier quand nous parlons de \"compétences\" ?",
             "explanation": "Sélectionnez les bonnes réponses.",
             "klf": "La compétence est une qualification professionnelle. Elle se décline en savoirs (connaissances), en savoir-faire (pratiques) et en savoir-être (comportements relationnels) ainsi qu’en des aptitudes physiques.",
             "tips": "Les soft skills, ou compétences comportementales, suscitent de plus en plus l’intérêt des entreprises. Pour être recruté puis être performant au travail, les seules compétences techniques ne suffisent plus. Salariés et manager doivent développer des qualités non professionnelles telles que la créativité ou l’empathie.",
             "clue": "",
             "context_title": "Les questions à préparer avant son entretien individuel annuel",
-            "context_description": "Pour que l'entretien annuel d'évaluation vous soit bénéfique, il convient de l'aborder de la façon la plus professionnelle possible. Nous vous proposons ici quelques questions à préparer dans les détails afin d'être le plus précis possible le jour J.",
+            "context_description": "Pour que l'entretien trimestre d'évaluation vous soit bénéfique, il convient de l'aborder de la façon la plus professionnelle possible. Nous vous proposons ici quelques questions à préparer dans les détails afin d'être le plus précis possible le jour J.",
             "context_media_description": "",
-            "choice_V1tegdHn8": "Votre motivation",
-            "choice_VJz~e-HhI": "Une connaissance mobilisable",
-            "choice_VkhZe-S3U": "Une qualité intrinsèque"
+            "choice_V1tegdHn8": "Mes leviers de motivation",
+            "choice_VJz~e-HhI": "Ce que je maîtrise dans mes missions et les éléments sur lesquels je suis moins à l'aise",
+            "choice_VkhZe-S3U": "Les traits de ma personnalité"
         }
     }
 }
