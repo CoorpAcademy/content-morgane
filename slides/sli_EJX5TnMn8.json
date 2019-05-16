@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-05-13T20:10:20.874Z",
-            "updatedAt": "2019-05-13T20:10:20.874Z",
+            "updatedAt": "2019-05-16T15:21:22.335Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "keywords": [],
@@ -67,12 +67,12 @@
     },
     "locales": {
         "fr": {
-            "header": "Pour évaluer l'impact des retombées de vos engagements, répondez à cette question : \"Qu’est-ce que vous retenez des associations bénévoles dans lesquelles vous êtes impliquée?\"",
+            "header": "\"Qu’est-ce que vous retenez des associations bénévoles dans lesquelles vous êtes impliquée?\"",
             "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
             "klf": ".",
             "tips": ".",
             "clue": "",
-            "context_title": "Que ce soit dans un conseil d’administration, un projet ou dans une autre activité bénévole, vous devez être en mesure de connaître ce que chaque implication vous apporte sur le plan personnel, professionnel et de déterminer si cette implication a des retombées positives sur votre entreprise.",
+            "context_title": "Que ce soit dans un conseil d’administration ou dans une autre activité bénévole, vous devez connaître ce que chaque implication vous apporte sur le plan personnel, professionnel.",
             "context_description": "",
             "context_media_description": "",
             "choice_EJ9mAhGnL": "Que le compromis est le meilleur allié du couple",
