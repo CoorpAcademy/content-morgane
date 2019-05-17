@@ -3,10 +3,10 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-05-13T19:57:09.767Z",
-            "updatedAt": "2019-05-17T08:54:02.467Z",
+            "updatedAt": "2019-05-17T09:04:10.196Z",
             "publishedAt": null,
             "contentExpiresAt": null,
-            "taggedNewUntil": "2019-07-13T19:56:02.232Z",
+            "taggedNewUntil": "2019-05-01T19:56:02.232Z",
             "keywords": [],
             "modules": [
                 "mod_NyZJB8aiL"
@@ -18,7 +18,7 @@
         "universalRef": "cha_EyQxinM3L",
         "name": "name",
         "skills": [],
-        "position": 0,
+        "position": 1,
         "stars": 20,
         "time": null,
         "isConditional": false,
