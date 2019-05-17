@@ -3,9 +3,9 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-05-09T17:39:38.804Z",
-            "updatedAt": "2019-05-16T15:35:58.923Z",
+            "updatedAt": "2019-05-17T08:54:02.546Z",
             "publishedAt": null,
-            "taggedNewUntil": "2019-07-09T17:38:32.122Z",
+            "taggedNewUntil": "2019-07-09T17:39:38.804Z",
             "contentExpiresAt": null,
             "keywords": [],
             "modifiedBy": "auroreperrin",
@@ -31,7 +31,7 @@
         "conditions": [],
         "states": {
             "fr": {
-                "edition": "draft"
+                "edition": "validate"
             }
         },
         "version": "3"

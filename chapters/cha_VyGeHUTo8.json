@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-05-09T17:39:38.780Z",
-            "updatedAt": "2019-05-16T15:15:41.623Z",
+            "updatedAt": "2019-05-17T08:54:02.466Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "taggedNewUntil": "2019-07-09T17:39:29.360Z",
@@ -11,7 +11,7 @@
             "modules": [
                 "mod_NyZJB8aiL"
             ],
-            "modifiedBy": "Morganeplx",
+            "modifiedBy": "auroreperrin",
             "createdBy": "Morganeplx"
         },
         "ref": "cha_VyGeHUTo8",
@@ -30,7 +30,7 @@
         "poster": null,
         "states": {
             "fr": {
-                "edition": "draft"
+                "edition": "validate"
             }
         },
         "version": "5"
