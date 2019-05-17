@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-05-09T17:39:38.780Z",
-            "updatedAt": "2019-05-17T09:03:28.947Z",
+            "updatedAt": "2019-05-17T09:03:48.289Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "taggedNewUntil": "2019-05-01T17:39:29.360Z",
@@ -20,7 +20,7 @@
         "skills": [
             "skill_Ekp8mtR3H"
         ],
-        "position": 0,
+        "position": 2,
         "stars": 20,
         "time": null,
         "isConditional": false,
